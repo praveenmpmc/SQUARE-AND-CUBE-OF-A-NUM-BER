@@ -16,13 +16,10 @@ To write and execute an Assembly language program for finding the square of a gi
 
 ## PROGRAM
 ```
+<img width="1064" height="739" alt="image" src="https://github.com/user-attachments/assets/12197bf8-dbd9-4871-be0d-0f7811bd69e1" />
 
 
-
-
-
-
-
+<img width="1029" height="641" alt="image" src="https://github.com/user-attachments/assets/9f66aba9-2c04-460c-8ee2-522596d59551" />
 
 
 ```
